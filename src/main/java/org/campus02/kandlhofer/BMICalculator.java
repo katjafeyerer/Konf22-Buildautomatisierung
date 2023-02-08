@@ -1,7 +1,7 @@
 package org.campus02.kandlhofer;
 
 public class BMICalculator {
-
+    // das ist ein Clone
     private double weightInKG;
     private double heightInMeters;
 
