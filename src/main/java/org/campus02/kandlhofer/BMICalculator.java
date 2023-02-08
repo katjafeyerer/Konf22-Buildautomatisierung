@@ -2,6 +2,7 @@ package org.campus02.kandlhofer;
 
 public class BMICalculator {
     // das ist ein Clone
+    //Clone 2
     private double weightInKG;
     private double heightInMeters;
 
